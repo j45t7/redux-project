@@ -1,0 +1,3 @@
+# redux-project
+
+## practicing redux
