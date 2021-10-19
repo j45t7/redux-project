@@ -1,3 +1,3 @@
 # redux-project
 
-## practicing redux
+## practising redux
